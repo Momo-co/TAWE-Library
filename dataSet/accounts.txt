@@ -1,0 +1,8 @@
+Librarian, admin, admin, account, 01234567890, 01234 567890, 123 Administration, Tawe, Wales, SA12 AD1, templates/TAWE-Lib Hex.png, 1970/01/01
+User, johndoe, john, doe, 07123456789, 01656 123456, 123 John Street, Bridgend, Wales, CF33 SA1, templates/TAWE-Lib User.png, money:101.5, searchHistory:[]
+User, janedoe, jane, doe, 07987654321, 01656 654321, 123 Jane Street, Bridgend, Wales, CF33 SA1, templates/TAWE-Lib User.png, money:0.0, searchHistory:[]
+User, dalebutt, Dale, Butt, 07088428519, 01656 745314, 1 Middle of Nowhere, Somewhere, UK, CF33 8BS, TAWE-Lib User.png, money:100.0, searchHistory:[]
+User, kevinpan, Kevin, Pan, 00000000000, 01656 314564, Swansea Bay Campus, Dorm 69, South Wales, SA69 4LP, TAWE-Lib User.png, money:2.609999895095825, searchHistory:[]
+User, artiomsherstobitov, Artiom, Sherstobitov, 147652736, 01656 735272, City of Lithuai, Big Buiding, Lithuania, L456, TAWE-Lib User.png, money:0.0, searchHistory:[]
+User, eduradocamacho, Eduardo, Camacho, 7253737, 217 29374, Swansea Bay Campus, Dorm 1337, South Wales, SA1337 4LP TAWE-Lib User.png, money:0.0, money:0.0, searchHistory:[]
+User, ronaldmcdonald, Ronald, McDonald, 816372838, 01745373, Everywhere, Nowhere, Somewhere, Overthere, TAWE-Lib User.png, money:0.0, searchHistory:[]
