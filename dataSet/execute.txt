@@ -1,0 +1,5 @@
+Reserved, Laptop, MacBook Airplane, 11, dalebutt
+Reserved, Book, Star Wars, 6, kevinpan
+Loan, DVD, Avengers: Infinity War, 42, dalebutt, 9, 12, 2018
+Loan, DVD, The Hobbit: An Unexpected Journey, 33, kevinpan, 9, 12, 2018
+Return, DVD, Avengers: Infinity War, 42, dalebutt

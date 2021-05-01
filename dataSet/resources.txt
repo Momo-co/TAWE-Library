@@ -1,0 +1,9 @@
+DVD, 20, 1, Harry Potter, 2002, book.png, John Stewart, 125, English, French
+Book, 5, 2, Harry Potter and the Deathly Hallows - Part 2, 2011, book.png, J.K. Rowling, Bloomsbury Publishing, Fantasy, English, 254595
+Laptop, 10, 3, Acer, 2010, book.png, Acer, Ac-1556, Windows
+Book, 7, 4, Star Wars, 2020, book.png, Roger Moore, Disney, Sci Fi, English, 7367
+DVD, 12, 5, The Hunger Games, 2010, book.png, Sarah Jackson, 143, English, German
+Book, 2, 6, Lord of the Rings: Fellowship of the Ring, 1954, book.png, J.R.R. Tolkien, George Allen & Unwin, Fantasy, English, 826373
+DVD, 9, 7, The Hobbit: An Unexpected Journey, 2012, book.png, Peter Jackson, 169, English, Spanish
+Laptop, 5, 8, MacBook Airplane, 2050, book.png, Apple, Airplane 0, macOS
+DVD, 1, 9, Avengers: Infinity War, 2018, book.png, Russell Brothers, 160, English, German
